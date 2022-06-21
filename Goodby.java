@@ -1,3 +1,3 @@
 public class Goodby {
-    int racksOnRacks = 16;
+    int racksOnRacks = 15;
 }
